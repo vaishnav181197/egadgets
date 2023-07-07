@@ -1,0 +1,5 @@
+1.add products  127.0.0.1:8000/store/product
+2.view specific product
+3.view entire product list
+4.update product details
+5.delete a product
